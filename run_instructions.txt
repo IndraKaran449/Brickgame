@@ -1,0 +1,6 @@
+1) Download Python and Install.
+2) Download VS code and install it and also install the python extension in VS code editor.
+3) If by default wasn't added in system variables add both VS code and python paths in System variables.
+4) Install the tkinter by writing the following command as pip install tk.
+5) Run the python file brick_game.py
+
